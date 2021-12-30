@@ -134,3 +134,29 @@ Slack
 WordPress
 
 ![](https://static.platzi.com/media/user_upload/server-1-6cb8513b-f495-44a1-84c5-004b1339a95f.jpg)
+
+## Proyecto: diseño y bosquejo de una API
+
+![](https://static.platzi.com/media/user_upload/api-03f678d4-9a58-4876-9436-220f9dcf519a.jpg)
+* https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/
+* https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/
+
+![](https://static.platzi.com/media/user_upload/api-a71b0e3c-d476-444d-986a-06aa8ecc1810.jpg)
+
+## Endpoints para Tweets
+
+(GET) /api/tweets => shows all tweets
+(POST) /api/post => publish a tweet
+(GET) /api/tweets/:id => shows a single tweet
+(UPDATE) /api/tweets/:id => updates a tweet
+(DELETE) /api/tweets/:id => deletes a tweet
+
+## Endpoints para Usuarios
+
+(GET) /api/users => shows all users
+(POST) /api/signup => registers an user
+(GET) /api/users/:userID => shows an user
+(UPDATE) /api/users/:userID => updates an user
+(DELETE) /api/users/:userID => deletes an user
+
+![](https://static.platzi.com/media/user_upload/ejercicio_LI-24f0310b-f6f1-4fe9-9390-cdedea5fc9dd.jpg)
